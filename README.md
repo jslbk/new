@@ -25,7 +25,7 @@ Second test checks function that returns rectangles area after adding length and
 
 - To check algorithm enter length and width for perimeter const (`length`, `width`);
 - To check algorithm enter length and width for area const (`length`, `width`);
-- Set the expected result that should be printed in console log ('The perimeter of a rectangle is 8 and the area is 4');
+- Set the expected result that should be printed in console log ('The perimeter of a rectangle is `perimeter` and the area is `area`');
 - Expected result should match actual to pass;
 
 ### Note:
