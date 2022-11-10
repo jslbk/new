@@ -9,14 +9,14 @@ One test for every function.
 ## Test 1:
 First test checks function that returns rectangles perimeter after adding length and width values
 
-- To check algorithm enter length and width (`length`, `width`);
+- To check algorithm enter length and width values (`length`, `width`);
 - Set the expected result value (`perimeter`);
 - Expected result should match actual to pass;
 
 ## Test 2:
 Second test checks function that returns rectangles area after adding length and width values.
 
-- To check algorithm enter length and width (`length`, `width`);
+- To check algorithm enter length and width value (`length`, `width`);
 - Set the expected result value (`area`);
 - Expected result should match actual to pass;
 
